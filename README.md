@@ -1,3 +1,20 @@
+# Serenity - AI Powered Mental Health Assessment & Tracking
+
+Serenity is an innovative mental health platform that combines AI-driven self-assessment with live therapist support and community features. Designed for a hackathon setting, Serenity leverages cutting-edge technology to make mental health care more accessible, personalized, and engaging.
+
+---
+
+## **Overview**
+Our platform redefines mental health evaluations by moving away from static questionnaires and embracing a fully dynamic, machine learning–powered approach. By analyzing user responses in real time, our ML engine adapts the assessment process, providing nuanced insights and personalized recommendations.  
+
+This innovation is complemented by an intelligent chatbot, interactive dashboard, secure WebRTC doctor portal, and a thriving community space, creating a holistic ecosystem for mental health support.
+
+---
+
+## **📺 YouTube Demo**
+### [▶ Watch Here](https://youtu.be/9AKtvtt0qPQ)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
